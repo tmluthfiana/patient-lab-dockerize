@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient: one
+  name: MyString
+  code: MyString
+  value: MyString
+  unit: MyString
+  ref_range: MyString
+  finding: MyString
+  result_state: MyString
+
+two:
+  patient: two
+  name: MyString
+  code: MyString
+  value: MyString
+  unit: MyString
+  ref_range: MyString
+  finding: MyString
+  result_state: MyString
