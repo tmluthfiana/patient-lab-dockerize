@@ -11,7 +11,7 @@ Things you may want to cover:
   - install rails
   - install docker in local
 * Deployment instructions
-  - git clone 
+  - git clone 'https://github.com/tmluthfiana/patient-lab-dockerize.git'
   - run => docker-compose up
 * Testing in postman
   - get all data patient => http://localhost:3000/patient/
